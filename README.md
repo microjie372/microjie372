@@ -1,6 +1,5 @@
 ## Hi there 👋
 For my personal homepage, please refer to https://microjie372.github.io/
-For my resume, please refer to [CV](CV-ZZJ.pdf)
 <!--
 **microjie372/microjie372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
