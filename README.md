@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://microjie372.github.io/
+I am currently a first-year CS PhD student, here is my personal webpage https://microjie372.github.io/
 <!-- For my personal homepage, please refer to https://microjie372.github.io/ -->
 <!--
 **microjie372/microjie372** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
